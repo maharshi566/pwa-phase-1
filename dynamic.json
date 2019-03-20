@@ -1,0 +1,40 @@
+{
+  "basics":{
+    "img":"images/hitman.jpg",
+    "name":"Rishi",
+    "email":"maharshidevarasetty@gmail.com"
+  },
+  "career":{
+    "info":"i look forward for a position that allows me to improve and acknowledge my strengths and also my weaknesses"
+  },
+  "education":[
+    {
+    "sno":"1",
+    "degree":"b.tech",
+    "institute":"mits",
+    "percentage":"98%"
+  },
+  {
+  "sno":"2",
+  "degree":"intermediate",
+  "institute":"vijayam",
+  "percentage":"82%"
+},
+{
+"sno":"3",
+"degree":"ssc",
+"institute":"montessori",
+"percentage":"92%"
+}
+],
+"skills":[{
+  "info":"c"},
+  {
+  "info":"java"},{
+
+  "info":"c++"
+}]
+
+
+
+}
